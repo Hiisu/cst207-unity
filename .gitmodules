@@ -1,0 +1,6 @@
+[submodule "LoganBarnettRepos/cubed"]
+	path = LoganBarnettRepos/cubed
+	url = git://github.com/LoganBarnett/cubed.git
+[submodule "LoganBarnettRepos/catch-a-captcha"]
+	path = LoganBarnettRepos/catch-a-captcha
+	url = git://github.com/LoganBarnett/catch-a-captcha.git
